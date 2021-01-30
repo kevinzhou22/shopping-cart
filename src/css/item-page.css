@@ -1,0 +1,60 @@
+.item-page {
+  height: calc(100vh - 6rem);
+  display: flex;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.item-page img {
+  height: 100%;
+  width: 45%;
+  object-fit: cover;
+}
+
+.item-page .item-details {
+  margin-left: 27.5%;
+  transform: translateX(-50%);
+  text-align: center;
+}
+
+.item-page .item-details h3 {
+  font-weight: bold;
+  font-size: 4rem;
+}
+
+.item-page .item-details .item-page-price {
+  margin-top: 2rem;
+  font-size: 2.5rem;
+}
+
+.item-page .item-details .add-to-cart {
+  border: none;
+  font-size: 2rem;
+  padding: 1rem 5rem;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  border-radius: 2px;
+  margin-top: 2rem;
+}
+
+.item-page .item-details .add-to-cart:hover {
+  cursor: pointer;
+}
+
+.item-page .item-details .add-to-cart:active {
+  transform: translateY(1px);
+}
+
+.item-page .item-details a {
+  display: block;
+  text-decoration: none;
+  color: black;
+  margin-top: 2rem;
+  font-size: 2rem;
+}
+
+.item-page .item-details a i {
+  margin-right: 1.2rem;
+  vertical-align: -0.5px;
+}
