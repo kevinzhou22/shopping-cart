@@ -1,0 +1,35 @@
+.home-page {
+  background-image: url(../images/corona.jpg);
+  background-size: cover;
+  height: calc(100vh - 6rem);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  flex-direction: column;
+}
+
+.home-page h2 {
+  color: white;
+  font-weight: bold;
+  font-size: 4rem;
+  margin-bottom: 10rem;
+}
+
+.home-page a {
+  text-decoration: none;
+  color: rgb(3, 2, 2);
+  background-color: white;
+  padding: 1rem 2rem;
+  font-size: 1.8rem;
+  border-radius: 4px;
+  border-style: outset;
+}
+
+.home-page a:hover {
+  cursor: pointer;
+}
+
+.home-page a:active {
+  transform: translateY(1px);
+}
