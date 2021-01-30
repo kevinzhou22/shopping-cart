@@ -1,0 +1,38 @@
+.supplies-page {
+  font-family: 'Roboto', sans-serif;
+}
+
+.items-container {
+  width: 50%;
+  margin: 5rem auto 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+  row-gap: 1rem;
+  column-gap: 2rem;
+}
+
+.item-description {
+  padding: 2rem;
+}
+
+.item-description img {
+  width: 20rem;
+  height: 24rem;
+  object-fit: cover;
+}
+
+.item-description a {
+  text-decoration: none;
+  color: black;
+  font-weight: 50;
+}
+
+.item-description h3{
+  font-size: 2rem;
+  margin-top: 0.4rem;
+}
+
+.item-description .item-description-price {
+  font-size: 1.6rem;
+  margin-top: 0.3rem;
+}
