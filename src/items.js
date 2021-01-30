@@ -57,7 +57,7 @@ const getAllItemDetails = function getAllItemDetails() {
 addNewItem('Cloth Masks', 30, ClothMasksSmallImage, ClothMasksLargeImage);
 addNewItem('Gloves', 10, GlovesSmallImage, GlovesLargeImage);
 addNewItem('Hand Sanitizer', 15, HandSanitizerSmallImage, HandSanitizerLargeImage);
-addNewItem('Disinfecting Wipes', 15, DisinfectingWipesSmallImage, DisinfectingWipesLargeImage);
+addNewItem('Disinfectant Wipes', 15, DisinfectingWipesSmallImage, DisinfectingWipesLargeImage);
 addNewItem('Toilet Paper', 500, ToiletPaperSmallImage, ToiletPaperLargeImage);
 addNewItem('N95 Masks', 200, N95MasksSmallImage, N95MasksLargeImage);
 addNewItem('Hand Wash', 20, HandWashSmallImage, HandWashLargeImage);
