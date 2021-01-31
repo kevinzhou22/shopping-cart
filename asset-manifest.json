@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.4ff4eaa1.chunk.css",
+    "main.js": "/shopping-cart/static/js/main.58d1fe76.chunk.js",
+    "main.js.map": "/shopping-cart/static/js/main.58d1fe76.chunk.js.map",
+    "runtime-main.js": "/shopping-cart/static/js/runtime-main.b56c1ee8.js",
+    "runtime-main.js.map": "/shopping-cart/static/js/runtime-main.b56c1ee8.js.map",
+    "static/css/2.b88c7420.chunk.css": "/shopping-cart/static/css/2.b88c7420.chunk.css",
+    "static/js/2.416575f7.chunk.js": "/shopping-cart/static/js/2.416575f7.chunk.js",
+    "static/js/2.416575f7.chunk.js.map": "/shopping-cart/static/js/2.416575f7.chunk.js.map",
+    "index.html": "/shopping-cart/index.html",
+    "static/css/2.b88c7420.chunk.css.map": "/shopping-cart/static/css/2.b88c7420.chunk.css.map",
+    "static/css/main.4ff4eaa1.chunk.css.map": "/shopping-cart/static/css/main.4ff4eaa1.chunk.css.map",
+    "static/js/2.416575f7.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.416575f7.chunk.js.LICENSE.txt",
+    "static/media/cloth-masks-large.c65e79e9.jpg": "/shopping-cart/static/media/cloth-masks-large.c65e79e9.jpg",
+    "static/media/cloth-masks-small.c67afcb9.jpg": "/shopping-cart/static/media/cloth-masks-small.c67afcb9.jpg",
+    "static/media/home-page.css": "/shopping-cart/static/media/corona.de9be5e6.jpg",
+    "static/media/disinfecting-wipes-large.415c42f4.jpg": "/shopping-cart/static/media/disinfecting-wipes-large.415c42f4.jpg",
+    "static/media/disinfecting-wipes-small.2e25548a.jpg": "/shopping-cart/static/media/disinfecting-wipes-small.2e25548a.jpg",
+    "static/media/solid.min.css": "/shopping-cart/static/media/fa-solid-900.f4f93856.woff",
+    "static/media/face-shield-large.3acf4256.jpg": "/shopping-cart/static/media/face-shield-large.3acf4256.jpg",
+    "static/media/face-shield-small.7d809e6c.jpg": "/shopping-cart/static/media/face-shield-small.7d809e6c.jpg",
+    "static/media/gloves-large.25938f89.jpg": "/shopping-cart/static/media/gloves-large.25938f89.jpg",
+    "static/media/gloves-small.dba41c8f.jpg": "/shopping-cart/static/media/gloves-small.dba41c8f.jpg",
+    "static/media/hand-sanitizer-large.7a2ca068.jpg": "/shopping-cart/static/media/hand-sanitizer-large.7a2ca068.jpg",
+    "static/media/hand-sanitizer-small.ceb419f3.jpg": "/shopping-cart/static/media/hand-sanitizer-small.ceb419f3.jpg",
+    "static/media/hand-wash-large.87b9f995.jpg": "/shopping-cart/static/media/hand-wash-large.87b9f995.jpg",
+    "static/media/hand-wash-small.20978dd9.jpg": "/shopping-cart/static/media/hand-wash-small.20978dd9.jpg",
+    "static/media/n95-masks-large.0f482f7e.jpg": "/shopping-cart/static/media/n95-masks-large.0f482f7e.jpg",
+    "static/media/n95-masks-small.1c19bfa8.jpg": "/shopping-cart/static/media/n95-masks-small.1c19bfa8.jpg",
+    "static/media/toilet-paper-large.51d14ee0.jpg": "/shopping-cart/static/media/toilet-paper-large.51d14ee0.jpg",
+    "static/media/toilet-paper-small.592f83f4.jpg": "/shopping-cart/static/media/toilet-paper-small.592f83f4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b56c1ee8.js",
+    "static/css/2.b88c7420.chunk.css",
+    "static/js/2.416575f7.chunk.js",
+    "static/css/main.4ff4eaa1.chunk.css",
+    "static/js/main.58d1fe76.chunk.js"
+  ]
+}
