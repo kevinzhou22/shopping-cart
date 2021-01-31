@@ -12,7 +12,7 @@ import SuppliesPage from './components/SuppliesPage';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/shopping-cart">
       <Header />
       <Switch>
         <Route path="/" exact>
